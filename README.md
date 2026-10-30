@@ -1,0 +1,1 @@
+# syntoze-bg-remover
